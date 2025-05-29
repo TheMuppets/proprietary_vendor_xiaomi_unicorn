@@ -865,6 +865,7 @@ PRODUCT_PACKAGES += \
     libarcsoft_qnnhtp \
     libarcsoft_super_night_detection \
     libarcsoft_super_night_raw \
+    libarm_proxy_skel \
     libbeauty_face_interface \
     libbitmlengine \
     libbitmlenginev2 \
@@ -903,6 +904,7 @@ PRODUCT_PACKAGES += \
     libgf_hal \
     libgf_hal6 \
     libhdr10plus \
+    libhvx_proxy_stub \
     libipebpsstriping \
     libipebpsstriping170 \
     libipebpsstriping480 \
